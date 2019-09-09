@@ -1,0 +1,110 @@
+﻿Today I will show you some of the best linux distro’s of all time:
+
+
+
+
+
+
+1. Elementary OS
+
+
+
+
+If you’re after a distro that gets you as far away as possible from the image of a nerdy hacker type bashing away at a terminal interface, Elementary OS is what you need. It’s probably the most attractive distro around, with a style similar to that of macOS. This operating system’s superb desktop environment is known as Pantheon, and is based on Gnome.
+
+The latest version of Elementary OS is called Loki, which as well as being that bit prettier and neater than its predecessor Freya, has its own application installer UI called AppCenter. It’s a delightfully simple way to install apps outside the terminal, which is handy as there aren't very many preinstalled. 
+
+Elementary OS does, however, come bundled with the Epiphany browser, the Geary email client and a few basic ‘tool’ apps. You may need to add more programs, but this is easy to do using the integrated AppCenter, which contains paid programs designed specifically for the OS such as Quilter for budding writers or Spice-Up for composing presentations. The inconvenience of buying and downloading additional apps is balanced by Elementary OS’ Elegance.
+
+
+2. Linux Mint
+
+
+
+Linux Mint is a great ‘default’ distro for new Linux users, as it comes with a lot of the software you’ll need when switching from Mac or Windows, such as LibreOffice, the favoured productivity suite of Linux users. It also has better support for proprietary media formats, allowing you to play videos, DVDs and MP3 music files out of the box.
+
+You can download three main starter flavours of Mint 19, each of which uses a different desktop environment, the top-most layer of the interface allowing you to change elements such as the appearance of windows and menus. Cinnamon is currently the most popular, but you can also choose the more basic MATE, or Xfce.
+
+Linux Mint 18.3 was the last release to have an official KDE version. Unfortunately, this is no longer available with Linux Mint 19, but it can still be installed on top of version 19 if you miss it.
+
+While Timeshift was introduced in version 18.3 and to all Linux Mint releases, it is one of the main features of Linux Mint 19. Timeshift enables users to restore their computer from the last functional snapshot.
+
+All these desktop environments offer a good deal of customisation options, so feel free to download a few and boot as Live CD prior to installing to see which works best.
+
+
+3.  Arch Linux
+
+
+
+If you’re willing to try a slightly less user-friendly distro, Arch Linux is one of the most popular choices around. Arch allows you to customize your build using the terminal to download and install packages, and it’s particularly handy for developers and those with older machines who may not want unnecessary packages taking up space.
+
+Of course, this used to be the way all Linux distros were set up, but there are now much more user-friendly methods available. There’s even such a version of Arch Linux, named Antergos (pictured above). Antergos comes with more drivers, more applications and a load of desktop environments to let you change the look of the system. Its aim is to hold your hand and get you up and running with all the basics right from the initial install, but it’s still Arch Linux underneath.
+
+The hardcore crowd may turn their noses up at packages like Antergos, but when it saves those newer to Linux hours of potentially frustrating fiddling about, we’re all for it.
+
+Antergos’ graphical installer can guide you through the setup process and boot you to the Gnome 3 desktop environment. It can also use the Cinammon, MATE, KDE and Xfce environments if you prefer. Antergos doesn't come with an office suite but you can install this and other programs via the delightfully named Arch package manager ‘pacman’.
+
+
+4.  Ubuntu
+
+
+
+Ubuntu is one of the most popular flavors of Linux and along with Mint is strongly recommended for Linux newbies, as it's extremely accessible. 
+
+New versions of Ubuntu are released every six months, and every other year the developer Canonical releases an LTS (long term support) version of Ubuntu. These guarantee five years of security and general maintenance updates, so you can carry on using your machine without the hassle of running a full upgrade every few months. Standard releases are supported for one year only. 
+
+The current LTS version of Ubuntu uses the Gnome 3 desktop environment, which may be less familiar to Windows and macOS users.
+
+There are variations of Ubuntu which employ different environments such as Lubuntu, which uses a minimal desktop environment based on LXDE and a selection of fast, lightweight applications. This places far less strain on system resources than the graphic-intensive Unity.
+
+
+5.  Tails
+
+
+
+Tails is a privacy-oriented Linux distro which has the aim of concealing your location and identity as much as possible. Even Edward Snowden used it. 
+
+The OS routes all its internet traffic through the anonymising Tor network, which is designed to prevent data from being intercepted and analysed. Underneath all the security measures, it’s based on Debian Linux and uses the Gnome desktop so the interface is still clear and user-friendly. 
+
+Tails isn’t for everyone, but this niche OS does give you some peace of mind if you’ve been fretting about all the worrying privacy-trampling legislation being passed these days.
+
+
+6.  CentOS
+
+
+
+CentOS is a community offshoot of the Enterprise version of Red Hat Linux, and its focus is on stability rather than constant updates. Like Red Hat, security and maintenance updates for CentOS are pushed out up to 10 years from the initial release of each version. 
+
+CentOS is designed to be super-reliable, which is why it’s a great choice for a server. It's not quite such a good bet for someone looking for a new OS for daily use on their desktop PC or laptop.
+
+On the plus side, you can enjoy the pleasure of having something for nothing – packages compiled for the commercial version of Red Hat Linux are fully compatible with CentOS, so you can use them free of charge. 
+
+
+7.  Ubuntu Studio
+
+
+
+If you want a home music recording studio or a video production workstation without spending the thousands of pounds involved with industry standard software, consider installing Ubuntu Studio. 
+
+This officially recognised flavour of Ubuntu Linux has been designed for audio and video production, as an alternative to paid software such as Pro Tools. Support for audio plug-ins and MIDI input is built in and a virtual patch bay comes preinstalled. 
+
+Ubuntu Studio’s repositories have access to the packages in the main Ubuntu OS as well as a few digital audio sequencers. Its main strength is in audio recording through tools like the JACK Audio Connection Kit.
+
+
+8.  openSUSE
+
+
+
+Previously known as SUSE Linux and subsequently SuSE Linux Professional, openSUSE is aimed at developers and system administrators. For that reason, it’s extremely stringent on security protocols. 
+
+The operating system is divided into two main distributions: openSUSE Leap and openSUSE Tumbleweed. Leap uses the source code from SUSE Linux Enterprise, which makes it much more stable. New versions are released roughly once a year and are supported for three years, making Leap perfect for business applications.
+
+Tumbleweed (pictured above) is based on Factory, openSUSE's main development codebase. It follows a rolling release model – in other words, packages are made available for download as soon as they've been tested in Factory. This means Tumbleweed contains the latest stable applications and is good for day-to-day use. 
+
+The OS makes uses of the shiny KDE Plasma desktop, which is perfect if your machine can handle the more advanced graphical features.
+
+One of the more polished Linux distros around, openSUSE is consistently ranked in the top five distros on DistroWatch.com. What’s more, the SUSE Studio Express website allows you to create your own version of openSUSE, complete with tailored preinstalled software packages, desktop and system settings.
+
+
+Thanks for readingthis list!
+All information off Techradar.com!
